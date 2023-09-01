@@ -6,6 +6,10 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bmiit145"
 />
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bmiit145&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
+
 <div align="center">
   <h1> Total Viewers </h1>
   <img src="https://profile-counter.glitch.me/bmiit145/count.svg?"  />
