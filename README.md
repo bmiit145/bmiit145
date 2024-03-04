@@ -11,9 +11,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bmiit145&&theme=tokyonight" alt="Priyank Sutariya" /></p>
 <br/>
-<img
+<!-- <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bmiit145"
 />
+-->
 
 <!-- <div align="center">
   <h1> Total Viewers </h1>
