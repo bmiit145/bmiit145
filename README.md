@@ -2,13 +2,12 @@
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bmiit145&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
 />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmiit145&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bmiit145&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bmiit145&&theme=tokyonight" alt="rishavchanda" /></p>
+<br/>
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bmiit145"
 />
