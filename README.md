@@ -10,7 +10,17 @@
 />
 
 ### :fire: My Stats :
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmiit145&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Priyank Sutariya Languages" />
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=bmiit145&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bmiit145&theme=radical&layout=compact) |
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bmiit145"></img>
+
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmiit145&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Priyank Sutariya Languages" />
 <br/>
 
 
@@ -20,6 +30,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bmiit145&&theme=tokyonight" alt="Priyank Sutariya" />
 <br/>
+-->
 <!-- <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bmiit145"
 />
