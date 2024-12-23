@@ -20,6 +20,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmiit145"></img>
 
 
+[![An image of @bmiit145's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bmiit145)](https://holopin.io/@bmiit145)
+
+
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmiit145&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Priyank Sutariya Languages" />
 <br/>
 
